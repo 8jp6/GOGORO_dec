@@ -1,2 +1,3 @@
 # GOGORO_dec
-using decision tree  to decide whether GOGORO stations are too many or  not enough
+Using decision tree  to decide whether GOGORO stations are too many or  not enough.
+
